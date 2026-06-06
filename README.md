@@ -34,8 +34,7 @@ mergeSort([105, 79, 100, 110])         // [79, 100, 105, 110]
 ## Usage
 
 ```bash
-node fibonacci.js
-node mergeSort.js
+node recursion.js
 ```
 
 ## Key concepts
